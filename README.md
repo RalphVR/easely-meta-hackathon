@@ -1,4 +1,5 @@
 # easely-meta-hackathon
+meta hackathon version: v0.0.1.4.apk
 
 ## Instructions
 1. download apk and sideload unto Quest 2 (have not tested on Quest 1)
